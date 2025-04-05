@@ -14,6 +14,8 @@
 </p>
 
 <p>
+  <h3 align="center">⭐ Don't forget to set the repository to "Star" ⭐</h3>
+</p>
 
 </p>
 <h1>📜・Description:</h1>

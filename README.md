@@ -16,24 +16,16 @@
 <h1>📜・Description:</h1>
 <p>
   
-👨‍💻 -> Developed in <strong>Python</strong>.<br>
+👨‍💻 -> Developed in <strong>Python</strong>, by <a href="https://redtiger.shop/loxy0dev">Loxy0dev</a><br>
 🌍 -> Tool in <strong>English</strong>.<br>
 💻 -> Available on <strong>Windows</strong> and <strong>Linux</strong><br>
-🔎 -> <strong>No viruses</strong> or <strong>token grabbers</strong>.<br>
+🔎 -> <strong>No malware</strong> or <strong>backdoor</strong>,<strong>No viruses</strong> or <strong>token grabbers</strong>.<br>
 📂 -> <strong>Open Source</strong> only for verification, ensuring no viruses or malicious programs.<br>
 🔄 -> <strong>Frequently updated</strong>.<br>
 💰 -> <strong>Free</strong> for everyone.<br>
+🎈 -> <strong>The tools include: <strong>Scanning, Osint, Utilities, Builder, Roblox, Discord</strong>, And more...<br>
 </p>
 <p>
-  
-  - Developed in <strong>Python</strong>, by <a href="https://redtiger.shop/loxy0dev">Loxy0dev</a><br>
-  - Tool in <strong>English</strong>.<br>
-  - Available on <strong>Windows</strong> and <strong>Linux</strong>.<br>
-  - <strong>No malware</strong> or <strong>backdoor</strong>.<br>
-  - <strong>Open Source</strong> only for verification, ensuring no malicious programs.<br>
-  - <strong>Frequently updated</strong>.<br>
-  - <strong>Free</strong> for everyone.<br>
-  - The tools include: <strong>Scanning, Osint, Utilities, Builder, Roblox, Discord</strong>, And more..
   <br><br>
 </p>
 

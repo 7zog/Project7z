@@ -26,8 +26,7 @@
 🎈 -> <strong>The tools include: <strong>Scanning, Osint, Utilities, Builder, Roblox, Discord</strong>, And more...<br>
 </p>
 <p>
-  <br>
-</p>
+
 
 <h1 align="center">Tools</h1>
 

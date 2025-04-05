@@ -1,9 +1,8 @@
 <h1 align="center">🐯 Red Tiger Multi-Tool 🛠️</h1> 
+(https://github.com/7zog/7zog-Tools)
 
-[![GitHub Logo](Img/7zog.png)](https://github.com/7zog/7zog-Tools)
 
-
-<img align="center" src="Img/7zog-Banner.png" width="100%"> 
+<img align="center" src="Img/7zog.png)" width="100%"> 
 
 <h1 align="center">Multi-Tools</h1>
  

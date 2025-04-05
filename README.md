@@ -149,7 +149,7 @@
 <br><br>
 </p>
 
-<h1 align="center">Requirements</h1>
+<h1 align="center">🔒・Requirements</h1>
 
 <h3>Windows:</h3>
 
@@ -166,7 +166,7 @@
 <br><br>
 </p>
 
-<h1 align="center">Installation</h1>
+<h1 align="center">⏳・Installation</h1>
 
 <a href="https://github.com/7zog/7zog-Tools/archive/refs/tags/v2.0.zip">Downloads "7zog-Tools.zip" Here</a>
 
@@ -188,7 +188,7 @@ Or
 <br><br>
 </p>
 
-<h1 align="center">Disclaimer</h1>
+<h1 align="center">⚠️・Terms of Use And Disclaimer</h1>
 
 <p>
   
@@ -199,7 +199,7 @@ Or
 <br><br>
 </p>
 
-<h1 align="center">Donation</h1>
+<h1 align="center">💰・Donation</h1>
 
 <p>
   
@@ -212,4 +212,14 @@ Soon...
 Soon...
   ```
 
+</p>
+
+<h1 align="center">🔗・Credits</h1>
+
+<p>
+  - <a href="https://discord.gg/7zog">Discord</a><br>
+  - <a href="https://t.me/7zog">Telegram</a><br>
+  - <a href="https://7zProject.com">Website</a><br>
+  - Creator: <a href="https://github.com/7zog">7zog </a><br>
+  - Version: 2.0
 </p>

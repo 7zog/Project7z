@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/fluzyteck/Project7z?label=Version&color=a80505">
+  <img src="https://img.shields.io/github/stars/7zog/Project7z?style=social&label=Version&color=a80505">
   <img src="https://img.shields.io/github/stars/fluzyteck/Project7z?style=flat&label=Stars&color=a80505">
   <img src="https://img.shields.io/github/repo-size/fluzyteck/Project7z?label=Size&color=a80505">
   <img src="https://img.shields.io/github/languages/top/fluzyteck/Project7z?color=a80505">

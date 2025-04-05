@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/github/v/release/7zog/7zog-Tools?style=plastic&label=Version&color=d90000">
   <img src="https://img.shields.io/github/stars/7zog/7zog-Tools?style=plastic&label=Stars&color=d90000">
   <img src="https://img.shields.io/github/repo-size/7zog/7zog-Tools?style=plastic&label=Size&color=d90000">
-  <img src="https://img.shields.io/github/languages/top/7zog/7zog-Tools?style=plastic&color=d90000">
+  <img src="https://img.shields.io/github/languages/top/7zog/7zog-Tools?style=plastic&logo=python&logoColor=d90000&color=d90000">
 </p>
 
 <p>

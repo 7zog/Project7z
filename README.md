@@ -8,9 +8,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/v/release/7zog/Project7z?style=plastic&label=Version&color=d90000">
-  <img src="https://img.shields.io/github/stars/7zog/Project7z?style=plastice&label=Stars&color=d90000">
-  <img src="https://img.shields.io/github/repo-size/7zog/Project7z?label=Size&color=d90000">
-  <img src="https://img.shields.io/github/language/top/7zog/Project7z?color=d90000">
+  <img src="https://img.shields.io/github/stars/7zog/Project7z?style=plastic&label=Stars&color=d90000">
+  <img src="https://img.shields.io/github/repo-size/7zog/Project7z?style=plastic&label=Size&color=d90000">
+  <img src="https://img.shields.io/github/languages/top/7zog/Project7z?style=plastic&color=d90000">
 </p>
 
 <p>

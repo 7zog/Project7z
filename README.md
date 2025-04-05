@@ -25,7 +25,7 @@
   - 📂 -> <strong>Open Source</strong> only for verification, ensuring no viruses or malicious programs.<br>
   - 🔄 -> <strong>Frequently updated</strong>.<br>
   - 💰 -> <strong>Free</strong> for everyone.<br>
-  - 🎈 -> <strong>The tools<strong> include: Scanning, Osint, Utilities, Builder, Roblox, Discord ,And more...<br>
+  - 🎈 -> <strong>The tools include: Scanning, Osint, Utilities, Builder, Roblox, Discord ,And more...<br>
   <br><br>
 </p>
 

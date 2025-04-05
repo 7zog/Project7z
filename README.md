@@ -236,7 +236,7 @@ Soon...
 <p>
   - Discord : <a href="https://discord.gg/7zog">7zog</a><br>
   - Telegram : <a href="https://t.me/7zog">7zog</a><br>
-  - Website :<a href="https://7zProject.com">7zProject</a><br>
+  - Website : <a href="https://7zProject.com">7zProject</a><br>
   - Creator: <a href="https://github.com/7zog">7zog </a><br>
-  - Version:<a href="https://github.com/7zog/7zog-Tools/tree/main">2.0 </a><br>
+  - Version: <a href="https://github.com/7zog/7zog-Tools/tree/main">2.0 </a><br>
 </p>

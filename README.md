@@ -13,7 +13,10 @@
   <img src="https://img.shields.io/github/languages/top/7zog/Project7z?style=plastic&color=d90000">
 </p>
 
+</p>
+<h1>📜・Description:</h1>
 <p>
+
   
   - Developed in <strong>Python</strong>, by <a href="https://redtiger.shop/loxy0dev">Loxy0dev</a><br>
   - Tool in <strong>English</strong>.<br>

@@ -27,7 +27,6 @@
   - 🔄 -> <strong>Frequently updated</strong>.<br>
   - 💰 -> <strong>Free</strong> for everyone.<br>
   - 🎈 -> The tools<strong> include: <strong>Scanning, Osint, Utilities, Builder, Roblox, Discord </strong>,And more...<br>
-  <br><br>
 </p>
 
 <h1 align="center">Tools</h1>

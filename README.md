@@ -1,3 +1,8 @@
+<h1 align="center">🐯 Red Tiger Multi-Tool 🛠️</h1> 
+
+[![GitHub Logo](Img/7zog.png)](https://github.com/7zog/7zog-Tools)
+
+
 <img align="center" src="Img/7zog-Banner.png" width="100%"> 
 
 <h1 align="center">Multi-Tools</h1>
@@ -33,7 +38,7 @@
 <p>
 </p>
 
-<h1 align="center">Tools</h1>
+<h1 align="center">⭐・Features </h1>
 
 <p align="center">
   <img src="Img/7zog.png" width="49%"> 
@@ -43,7 +48,7 @@
   <br><br>
 </p>
 
-<h1 align="center">Features</h1>
+<h1 align="center">⚙️・Functions:</h1>
 <p>
    
 ```
@@ -165,6 +170,7 @@
 - Linux recent version.
 <br><br>
 </p>
+<img src="Img/Python_Path.png" width="500px">
 
 <h1 align="center">⏳・Installation</h1>
 
@@ -188,6 +194,20 @@ Or
 <br><br>
 </p>
 
+<h1 align="center">💀・Stealer /  Grabber </h1>
+<div align="center">
+   <img align="center" src="Img/Grab_System.png" width="450">
+   <img align="center" src="Img/Grab_Discord.png" width="450">
+   <img align="center" src="Img/Grab_Browser.png" width="450">
+   <img align="center" src="Img/Grab_Roblox.png" width="450">
+   <img align="center" src="Img/Grab_Screenshot.png" width="450">
+</div>
+
+<h1 align="center">☠️・Builder:</h1>
+
+<img align="center" src="Img/Builder.png" width="800px">
+
+
 <h1 align="center">⚠️・Terms of Use And Disclaimer</h1>
 
 <p>
@@ -195,7 +215,7 @@ Or
   - 7zog Tools has been developed solely for educational purposes.<br>
   - This project has been created with good intentions and is intended for personal use only.<br>
   - By choosing to use RedTiger, you acknowledge and accept full responsibility for any consequences that may result from your actions.<br>
-  - All scripts in the "<a href="https://github.com/7zog/7zog-Tools/tree/main/Program/FileDetectedByAntivirus">Program/FileDetectedByAntivirus</a>" folder are <strong>detected by the antivirus</strong> but pose no threat to you. These are <strong>not backdoors or malware</strong>.
+  - All scripts in the "<a href="https://github.com/7zog/7zog-Tools/tree/main/Program/FileDetectedByAntivirus">Program/FileDetectedByAntivirus</a>" folder are <strong>detected by the antivirus</strong> but pose no threat to you. These are <strong>not backdoors or malware</strong>. All scripts in the "Settings/Program/FileDetectedByAntivirus" folder are detected by the antivirus but pose no threat to you. These are not backdoors or malware. 
 <br><br>
 </p>
 

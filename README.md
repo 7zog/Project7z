@@ -202,7 +202,7 @@ Or
 
 <h1 align="center">☠️・Builder:</h1>
 
-<img align="center" src="Img/7zog-Builder.png" width="500px">
+<img align="center" src="Img/7zog-Builder.png" width="1000px">
 
 
 <h1 align="center">⚠️・Terms of Use And Disclaimer</h1>

@@ -1,9 +1,9 @@
-<img align="center" src="Img/RedTiger-Banner.png" width="100%"> 
+<img align="center" src="Img/7zog-Banner.png" width="100%">
 
 <h1 align="center">Multi-Tools</h1>
 
 <p align="center">
-   <a href="https://t.me/redtigersupport">Telegram</a> ・ <a href="https://redtiger.shop">Website</a> ・ <a href="https://www.trustpilot.com/review/redtiger.shop">Reviews</a>
+   <a href="https://t.me/7zog">Telegram</a> ・ <a href="https://guns.lol/og_">Website</a> ・ <a href="https://www.trustpilot.com/review/7zProject.com">Reviews</a>
 </p>
 
 <p align="center">

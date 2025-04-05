@@ -15,7 +15,10 @@
 
 <p>
 
+</p>
   <h1>📜・Description:</h1>
+<p>
+
   - Developed in <strong>Python</strong>, by <a href="https://redtiger.shop/loxy0dev">Loxy0dev</a><br>
   - Tool in <strong>English</strong>.<br>
   - Available on <strong>Windows</strong> and <strong>Linux</strong>.<br>

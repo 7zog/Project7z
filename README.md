@@ -1,4 +1,4 @@
-<img align="center" src="Img/7zog-Banner.png" width="100%">
+<img align="center" src="Img/7zog-Banner.png" width="100%"> 
 
 <h1 align="center">Multi-Tools</h1>
 
@@ -13,20 +13,22 @@
   <img src="https://img.shields.io/github/languages/top/7zog/Project7z?style=plastic&color=d90000">
 </p>
 
+<p>
+
 </p>
 <h1>📜・Description:</h1>
 <p>
-
   
-  - 👨‍💻 -> Developed in <strong>Python</strong>, by <a href="https://redtiger.shop/loxy0dev">Loxy0dev</a><br>
+  - 👨‍💻 -> Developed in <strong>Python</strong>, by <a href="https://github.com/7zog">7zog/a><br>
   - 🌍 -> Tool in <strong>English</strong>.<br>
   - 💻 -> Available on <strong>Windows</strong> and <strong>Linux</strong><br>
   - 🔎 -> <strong>No malware</strong> or <strong>backdoor</strong>,<strong>No viruses</strong> or <strong>token grabbers</strong>.<br>
   - 📂 -> <strong>Open Source</strong> only for verification, ensuring no viruses or malicious programs.<br>
   - 🔄 -> <strong>Frequently updated</strong>.<br>
   - 💰 -> <strong>Free</strong> for everyone.<br>
-  - 🎈 -> The tools include: Scanning, Osint, Utilities, Builder, Roblox, Discord ,And more...<br>
-
+  - 🎈 -> <strong>The tools</strong> include: Scanning, Osint, Utilities, Builder, Roblox, Discord, And more...<br>
+  <br><br>
+</p>
 
 <h1 align="center">Tools</h1>
 

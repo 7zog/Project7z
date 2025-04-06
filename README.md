@@ -1,4 +1,4 @@
-<h1 align="center">🐯 Red Tiger Multi-Tool 🛠️</h1> 
+<h1 align="center">🐯 7zog Multi-Tool 🛠️</h1> 
 
 <img align="center" src="Img/7zog.png" width="100%"> 
 
@@ -184,7 +184,7 @@ Or
 ```
 1 - Open a terminal.
 2 - Write "git clone https://github.com/7zog/7zog-Tools.git"
-3 - Write "cd RedTiger-Tools"
+3 - Write "cd 7zog-Tools"
 4 - Write "git pull"
 5 - Write "python Setup.py"
 ```
